@@ -1,0 +1,12 @@
+  .nav__submenu {
+    display: block;
+    font-weight: 300;
+    text-transform: none;
+    position: absolute;
+    width: 180px;
+    // background-color: white;
+  }
+  .nav__submenu li:hover{
+    background: rgba(#000, 0.1);
+         
+  }
